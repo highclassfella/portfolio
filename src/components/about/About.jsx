@@ -1,10 +1,9 @@
 import React from 'react';
 import "./about.css";
 
-const Sidebar = () => {
+const About = () => {
     return (
         <div>About</div>
-        
     )
 }
 
