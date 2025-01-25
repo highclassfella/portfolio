@@ -77,8 +77,8 @@ export default function Nav() {
             )}
             {renderNavLink("/skills", deadEye, "deadEye icon", "nav-skills")}
             {renderNavLink("/projects", stack, "stack icon", "nav-projects")}
-            {renderNavLink("blog", blog, "blog icon", "nav-blog")}
-            {renderNavLink("contact", envelope, "envelope icon", "nav-contact")}
+            {renderNavLink("/blog", blog, "blog icon", "nav-blog")}
+            {renderNavLink("/contact", envelope, "envelope icon", "nav-contact")}
           </nav>
         );
     }
