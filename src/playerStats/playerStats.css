@@ -38,6 +38,12 @@
     width: 6.2rem;
   }
   
+  #playerStats__icons {
+    align-items: center;
+  }
+
+
+
   @media (max-width: 1100px) {
     #playerStats {
       left: 50%;
@@ -54,4 +60,24 @@
     p {
       font-size: 0.7rem;
     }
+
+
+
+    #playerStats__icons {
+      align-items: center;
+      position: fixed;
+      display: flex;
+      align-items: flex-start;
+      top: 3rem;
+      left: -3%;
+      gap: 0.2rem;
+    }
+
+    .icon { 
+      display: flex;
+      align-items: flex-start;
+      top: 3rem;
+      width: 30px;
+    }
+
   }
