@@ -1,9 +1,12 @@
-import React, { Component } from 'react'
+import React, { Component } from "react";
+import BlogMenu from "./BlogMenu";
 
 export default class Blog extends Component {
   render() {
     return (
-      <div>Blog</div>
-    )
+      <>
+        <BlogMenu />
+      </>
+    );
   }
 }
