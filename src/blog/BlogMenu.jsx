@@ -9,7 +9,7 @@ export default class BlogMenu extends Component {
       <div key={index} className={`blog-sub-container-${index + 1}`}>
         <h3>{blog.title}</h3>
         <img src={blog.image} alt={blog.title}></img>
-        <div>{blog.description}</div>
+        <div className="blog-description">{blog.description}</div>
         <div className="link-container">
           <a href={blog.github} target="_blank" rel="noopener noreferrer">
             GITHUB

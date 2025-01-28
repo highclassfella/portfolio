@@ -9,8 +9,7 @@ const projects = {
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Was sind die besten Zertifikate
         </p>
       </>
     ),
@@ -24,7 +23,7 @@ const projects = {
       <>
         <p>
           Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          
         </p>
       </>
     ),
@@ -37,8 +36,7 @@ const projects = {
     description: (
       <>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-          eiusmod tempor incididunt ut labore et dolore magna aliqua.
+          Warum mache ich da shie rüberhaupt?
         </p>
       </>
     ),

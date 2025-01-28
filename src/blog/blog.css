@@ -28,11 +28,10 @@
   
   
   .blog-sub-container {
-    width: 70%;
-    margin-top: 2rem;
     display: flex;
     flex-direction: column;
     gap: 0.375rem;
+   
   }
   .blog-sub-container h3 {
     position: relative;
@@ -47,6 +46,13 @@
   .blog-sub-container p {
     font-size: 0.875rem;
   }
+
+
+  .blog-description {
+    width:90%;
+  }
+
+
   
   .link-container a {
     color: white;
