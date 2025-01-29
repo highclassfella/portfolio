@@ -2,35 +2,27 @@ const skills = {
     1: [
       {
         title: "HTML",
-        level: 6,
+        level: 5,
       },
       {
         title: "CSS",
-        level: 5,
-      },
-      {
-        title: "SASS",
-        level: 2,
-      },
-      {
-        title: "JavaScript",
-        level: 5,
-      },
-      {
-        title: "TypeScript",
         level: 4,
       },
       {
-        title: "Tailwind CSS",
-        level: 1,
+        title: "JavaScript",
+        level: 4,
       },
       {
         title: "React JS",
         level: 3,
       },
       {
-        title: "Figma",
-        level: 4,
+        title: "UI/UX",
+        level: 3,
+      },
+      {
+        title: "Blazor",
+        level: 2,
       },
     ],
     2: [
@@ -39,11 +31,11 @@ const skills = {
         level: 5,
       },
       {
-        title: "Node.js",
+        title: "JAVA",
         level: 4,
       },
       {
-        title: "MongoDB",
+        title: "Python",
         level: 2,
       },
       {
@@ -51,26 +43,30 @@ const skills = {
         level: 4,
       },
       {
-        title: "PHP",
+        title: "C#",
         level: 1,
       },
       {
-        title: "SQL",
+        title: "Spring",
         level: 3,
       },
       {
-        title: "Express.js",
+        title: "Hibernate",
         level: 3,
       },
     ],
 
     3: [
       {
-        title: "PostgreSQL",
+        title: "Linux",
         level: 5,
       },
       {
-        title: "Node.js",
+        title: "GOlang",
+        level: 4,
+      },
+      {
+        title: "Cryptopgraphie",
         level: 4,
       },
       
@@ -78,11 +74,19 @@ const skills = {
 
     4: [
       {
-        title: "PostgreSQL",
+        title: "Active Directory",
         level: 5,
       },
       {
-        title: "Node.js",
+        title: "Microsoft Azure",
+        level: 4,
+      },
+      {
+        title: "Sophos",
+        level: 4,
+      },
+      {
+        title: "Sophos",
         level: 4,
       },
       
