@@ -10,14 +10,7 @@ export default class BlogMenu extends Component {
         <h3>{blog.title}</h3>
         <img src={blog.image} alt={blog.title}></img>
         <div className="blog-description">{blog.description}</div>
-        <div className="link-container">
-          <a href={blog.github} target="_blank" rel="noopener noreferrer">
-            GITHUB
-          </a>
-          <a href={blog.demo} target="_blank" rel="noopener noreferrer">
-            DEMO
-          </a>
-        </div>
+        
       </div>
     ));
   };

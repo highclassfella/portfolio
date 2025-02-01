@@ -9,12 +9,11 @@ const projects = {
     description: (
       <>
         <p>
-          Was sind die besten Zertifikate
+        Zusammenfassung
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+
   },
   2: {
     title: "Productivity App",
@@ -27,8 +26,7 @@ const projects = {
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+
   },
   3: {
     title: "Food Delivery App",
@@ -36,12 +34,11 @@ const projects = {
     description: (
       <>
         <p>
-          Warum mache ich da shie rüberhaupt?
+          Zusammenfassung
         </p>
       </>
     ),
-    github: "https://github.com",
-    demo: "https://netlify.com",
+
   },
 };
 
