@@ -62,12 +62,24 @@ const skills = {
         level: 5,
       },
       {
-        title: "GOlang",
+        title: "GO",
         level: 4,
       },
       {
         title: "Cryptopgraphie",
         level: 4,
+      },
+      {
+        title: "Wireshark",
+        level: 4,
+      },
+      {
+        title: "Metasploit",
+        level: 3,
+      },
+      {
+        title: "Burp Suite",
+        level: 3,
       },
       
     ],
@@ -86,7 +98,7 @@ const skills = {
         level: 4,
       },
       {
-        title: "Sophos",
+        title: "PRTG",
         level: 4,
       },
       
